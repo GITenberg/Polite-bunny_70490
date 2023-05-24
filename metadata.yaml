@@ -5,6 +5,9 @@ contributor:
     agent_name: Ross, Penny
     gutenberg_agent_id: '55007'
     url: http://www.gutenberg.org/2009/agents/55007
+covers:
+- cover_type: archival
+  image_path: 70490-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Laura Rountree
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '3469'
     url: http://www.gutenberg.org/2009/agents/3469
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70490#Polite-bunny
 gutenberg_issued: '2023-04-07'
 identifiers:
   gutenberg: '70490'
